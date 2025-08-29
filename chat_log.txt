@@ -1,0 +1,4 @@
+[2025-08-07T19:38:28.156524]
+Q: hello
+A: Can you provide me with information on the best methods for filtering and boiling water in the backcountry, as well as tips for navigating the backcountry with a compass and map?
+
